@@ -29,4 +29,6 @@ Don’t try to “clean” the binary manually: Ransomware often hides in multip
 
 now your all done.
 
+# Decryption code
 
+i give it to you at 10 likes (:
